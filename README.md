@@ -1,6 +1,6 @@
 # SH-AppPython-Git-Tutorial
 
-This is an example source file. 
+This is an example repository for the Applied Python class. 
 
 ## About
 
